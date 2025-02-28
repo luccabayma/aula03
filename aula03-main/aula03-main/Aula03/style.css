@@ -1,0 +1,37 @@
+
+
+.tabela {
+    background-color: rgba(138, 137, 137, 0.432);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+    width:790px;
+
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    padding-top: 23px;
+    padding-right: 3px;
+}
+
+
+.margem {
+    padding: 30px;
+}
+
+
+.titulo {
+    text-align: center;
+}
+
+.premier {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 450px;
+    border-radius: 10px;
+}
